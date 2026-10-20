@@ -1,0 +1,102 @@
+[
+  {
+    "id": "amz-beh-001",
+    "company_id": "amazon",
+    "role_family": "sde",
+    "round_type": "behavioral",
+    "topics": ["ownership", "leadership_principles", "conflict"],
+    "difficulty": "medium",
+    "year": 2024,
+    "text": "Amazon SDE new grad behavioral round focused on Ownership and Dive Deep. Interviewer asked: Tell me about a time you disagreed with a teammate on a technical approach. Expect STAR answers with metrics. Follow-ups probed customer impact and what you would do differently."
+  },
+  {
+    "id": "amz-dsa-001",
+    "company_id": "amazon",
+    "role_family": "sde",
+    "round_type": "phone",
+    "topics": ["dsa", "arrays", "hashmap"],
+    "difficulty": "medium",
+    "year": 2024,
+    "text": "Amazon OA/phone screen: two coding problems. Common themes include arrays, hash maps, and string manipulation. Candidates should discuss time/space complexity and edge cases. Interviewer often asks to optimize a brute-force solution."
+  },
+  {
+    "id": "amz-proj-001",
+    "company_id": "amazon",
+    "role_family": "sde",
+    "round_type": "onsite",
+    "topics": ["projects", "system_design", "tradeoffs"],
+    "difficulty": "hard",
+    "year": 2023,
+    "text": "Amazon internship loop: deep dive into a resume project. Questions on architecture choices, bottlenecks, monitoring, and failure modes. Strong candidates quantify scale (users, latency, data size) and connect decisions to Deliver Results."
+  },
+  {
+    "id": "gs-tech-001",
+    "company_id": "goldman_sachs",
+    "role_family": "analyst",
+    "round_type": "technical",
+    "topics": ["coding", "probability", "communication"],
+    "difficulty": "hard",
+    "year": 2024,
+    "text": "Goldman Sachs engineering analyst interview mixes coding with structured thinking. Expect clarity under pressure, explanation of assumptions, and sometimes markets/probability intuition. Weak communication is heavily penalized even with correct answers."
+  },
+  {
+    "id": "gs-beh-001",
+    "company_id": "goldman_sachs",
+    "role_family": "analyst",
+    "round_type": "hr",
+    "topics": ["behavioral", "teamwork", "pressure"],
+    "difficulty": "medium",
+    "year": 2023,
+    "text": "GS behavioral: Why Goldman? Describe a high-pressure deadline. How do you prioritize when stakeholders conflict? Interviewers look for composure, precision, and ownership of outcomes."
+  },
+  {
+    "id": "cog-fund-001",
+    "company_id": "cognizant_ace",
+    "role_family": "generalist",
+    "round_type": "technical",
+    "topics": ["oop", "dbms", "os", "projects"],
+    "difficulty": "easy",
+    "year": 2024,
+    "text": "Cognizant ACE technical interview emphasizes CS fundamentals: OOP pillars, DBMS normalization, OS process vs thread, and a clear walkthrough of one academic project. Communication and basics matter more than advanced system design."
+  },
+  {
+    "id": "cog-comm-001",
+    "company_id": "cognizant_ace",
+    "role_family": "generalist",
+    "round_type": "hr",
+    "topics": ["communication", "motivation", "projects"],
+    "difficulty": "easy",
+    "year": 2024,
+    "text": "Cognizant ACE HR/communication round: introduce yourself, explain a project simply, discuss strengths/weaknesses, and willingness to learn. Candidates who ramble or cannot explain their own resume projects struggle."
+  },
+  {
+    "id": "goog-dsa-001",
+    "company_id": "google",
+    "role_family": "sde",
+    "round_type": "onsite",
+    "topics": ["dsa", "graphs", "complexity"],
+    "difficulty": "hard",
+    "year": 2024,
+    "text": "Google SWE interviews are heavy on algorithms: graphs, DP, trees. Interviewers care about problem decomposition, testing strategy, and complexity analysis. Talking through edge cases aloud is expected."
+  },
+  {
+    "id": "msft-collab-001",
+    "company_id": "microsoft",
+    "role_family": "sde",
+    "round_type": "behavioral",
+    "topics": ["collaboration", "design", "coding"],
+    "difficulty": "medium",
+    "year": 2024,
+    "text": "Microsoft SWE loop balances coding with collaboration and product sense. Expect questions about conflicting priorities, inclusive teamwork, and designing a simple feature end-to-end."
+  },
+  {
+    "id": "amz-lp-002",
+    "company_id": "amazon",
+    "role_family": "sde",
+    "round_type": "behavioral",
+    "topics": ["customer_obsession", "bias_for_action", "star"],
+    "difficulty": "medium",
+    "year": 2025,
+    "text": "Amazon LP interview: Customer Obsession and Bias for Action stories. Use STAR. Quantify impact. Be ready for 'What would you do differently?' and 'How did customers benefit?'"
+  }
+]
